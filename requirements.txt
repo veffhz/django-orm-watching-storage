@@ -3,4 +3,3 @@ django==1.11.*
 psycopg2-binary==2.8.*
 python-dotenv==0.14.0
 flake8==3.8.4
-environs==8.0.0
